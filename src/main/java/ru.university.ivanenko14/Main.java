@@ -1,4 +1,4 @@
-     и
+
 package ru.university.ivanenko14;
 
 public class Main {
